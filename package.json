@@ -1,0 +1,17 @@
+{
+  "name": "telegram-episode-bot",
+  "version": "1.0.0",
+  "keywords": [
+    "telegram",
+    "telegram bot",
+    "series",
+    "episodes",
+    "new episodes",
+    "series episodes notify"
+  ],
+  "author": "Yumarx Polanco <jumarpolanco@gmail.com>",
+  "contributors": [],
+  "dependencies": {
+    "node-telegram-bot-api": "^0.23.3"
+  }
+}
