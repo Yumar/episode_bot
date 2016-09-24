@@ -12,6 +12,13 @@
   "author": "Yumarx Polanco <jumarpolanco@gmail.com>",
   "contributors": [],
   "dependencies": {
-    "node-telegram-bot-api": "^0.23.3"
+    "cheerio": "latest",
+    "express": "latest",
+    "node-telegram-bot-api": "^0.23.3",
+    "request": "latest",
+    "x-ray": "^2.3.0"
+  },
+  "scripts": {
+    "start": "node app/scrapper.js"
   }
 }
