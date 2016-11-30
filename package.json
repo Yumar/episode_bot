@@ -19,6 +19,6 @@
     "x-ray": "^2.3.0"
   },
   "scripts": {
-    "start": "node app/scrapper.js"
+    "start": "node server.js"
   }
 }
